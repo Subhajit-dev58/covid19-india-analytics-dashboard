@@ -31,7 +31,7 @@ The objective of this project is to demonstrate the use of Tableau for visualizi
 
 ## Dashboard Preview
 
-![COVID-19 Dashboard](COVID19_India_Preview_Image.png)
+![COVID-19 Dashboard](COVID19_India_Preview_Image.png.png)
 
 ---
 
